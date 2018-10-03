@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi this is repo1 edureka file
+=======
+hi,this is repo2 edureka
+>>>>>>> added edureka.txt
+hi,adding edureka  to both repo1,repo2
