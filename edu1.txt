@@ -1,1 +1,3 @@
-this is text document created using notepad
+this is text document created using notepad.
+
+merged changes can be displayed while merging
